@@ -1,35 +1,4 @@
-﻿
-int seconds = 00;
-int minutes = 00;
-int hours = 00;
+﻿using Projeto.models;
 
-bool ligado = true;
-do
-{
-      
-            seconds++;
-            if(seconds == 60)
-            {
-                minutes++;
-                seconds = 00;
-            }
-            if(minutes == 60)
-            {
-                hours++;
-                minutes = 00;
-            }
-            if(hours == 24)
-            {
-                hours = 00;
-                minutes = 00;
-                seconds = 00;
-                ligado = false;
-            }
-
-            Console.WriteLine($"{hours.ToString("D2")}:{minutes.ToString("D2")}:{seconds.ToString("D2")}");
-        Thread.Sleep(1000);
-        Console.Clear();
-
-
-} while (ligado);
-Console.WriteLine("Seu cronômetro chegou ao limite");
+Tempo Tempo1 = new Tempo();
+Tempo1.Cronometro();
