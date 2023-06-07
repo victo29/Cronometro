@@ -1,0 +1,15 @@
+D:\Victor\Documents\VSAprendizado\Projetos\Cronometro\bin\Debug\net6.0\Cronometro.exe
+D:\Victor\Documents\VSAprendizado\Projetos\Cronometro\bin\Debug\net6.0\Cronometro.deps.json
+D:\Victor\Documents\VSAprendizado\Projetos\Cronometro\bin\Debug\net6.0\Cronometro.runtimeconfig.json
+D:\Victor\Documents\VSAprendizado\Projetos\Cronometro\bin\Debug\net6.0\Cronometro.dll
+D:\Victor\Documents\VSAprendizado\Projetos\Cronometro\bin\Debug\net6.0\Cronometro.pdb
+D:\Victor\Documents\VSAprendizado\Projetos\Cronometro\obj\Debug\net6.0\Cronometro.csproj.AssemblyReference.cache
+D:\Victor\Documents\VSAprendizado\Projetos\Cronometro\obj\Debug\net6.0\Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Victor\Documents\VSAprendizado\Projetos\Cronometro\obj\Debug\net6.0\Cronometro.AssemblyInfoInputs.cache
+D:\Victor\Documents\VSAprendizado\Projetos\Cronometro\obj\Debug\net6.0\Cronometro.AssemblyInfo.cs
+D:\Victor\Documents\VSAprendizado\Projetos\Cronometro\obj\Debug\net6.0\Cronometro.csproj.CoreCompileInputs.cache
+D:\Victor\Documents\VSAprendizado\Projetos\Cronometro\obj\Debug\net6.0\Cronometro.dll
+D:\Victor\Documents\VSAprendizado\Projetos\Cronometro\obj\Debug\net6.0\refint\Cronometro.dll
+D:\Victor\Documents\VSAprendizado\Projetos\Cronometro\obj\Debug\net6.0\Cronometro.pdb
+D:\Victor\Documents\VSAprendizado\Projetos\Cronometro\obj\Debug\net6.0\Cronometro.genruntimeconfig.cache
+D:\Victor\Documents\VSAprendizado\Projetos\Cronometro\obj\Debug\net6.0\ref\Cronometro.dll
